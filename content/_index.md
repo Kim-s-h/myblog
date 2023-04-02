@@ -3,7 +3,7 @@ title: "Seohyun Kim"
 subtitle: ""
 description: "Welcome to my digital garden!"
 images:
-  - img/lineplot.png
+  - img/main_flower.png
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
