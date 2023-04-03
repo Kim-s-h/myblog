@@ -2,9 +2,9 @@ baseURL = "https://kim-s-h.github.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Seohyun Kim"
-author = "Alison Hill"
+author = "Seohyun Kim"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "UA-185885638-2"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/my_mark_dark.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -43,12 +43,12 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "seohyun_kim_"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "grayscale"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/

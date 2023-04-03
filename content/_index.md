@@ -1,10 +1,10 @@
 ---
 title: "Seohyun Kim"
 subtitle: ""
-description: "Welcome to my digital garden!"
+description: "Welcome to my digital garden."
 images:
   - img/main_flower.png
-image_left: true
+image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
