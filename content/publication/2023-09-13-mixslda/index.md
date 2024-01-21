@@ -1,5 +1,5 @@
 ---
-title: "Exploring examinees’ responses to constructed response items with a supervised topic model"
+title: "Exploring Examinees’ Responses to Constructed Response Items with a Supervised Topic Model"
 excerpt: "This study introduces a supervised topic model that incorporates finite-mixture modelling into supervised latent Dirichlet allocation. This model can detect latent groups of participants that have different relationships between their textual responses and associated scores."
 
 featured: true
