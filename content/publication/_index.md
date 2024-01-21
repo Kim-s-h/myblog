@@ -1,7 +1,14 @@
 ---
 title: Publication
 description: |
-  This is home for my research publications.
+  This is home for my research publications. 
+  
+  **EHR Data Analysis**: I have multiple years of experience in designing and implementing statistical models for research studies that utilize electronic health record (EHR) data to determine risk factors for clinical outcomes, identifying high risk subgroups, and predicting clinical outcomes.
+  
+  **Topic Modeling**: My research on topic modeling explored latent topics underlying text data and developing new approaches for extracting information from examinees' written responses.
+  
+  **Longitudinal Data Analysis**: I have conducted several studies on latent variable modeling and longitudinal data analysis.
+  
 author: "Seohyun Kim"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
