@@ -1,12 +1,12 @@
 ---
 title: Publication
 description: |
-  Work in progress.
+  This is home for my research publications.
 author: "Seohyun Kim"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: false
-show_post_date: false
+show_post_date: true
 show_button_links: false
 # for listing page layout
 layout: list # list, list-sidebar, list-grid
@@ -28,14 +28,14 @@ sidebar:
 
 # set up common front matter for all pages inside gallery/
 cascade:
-  author: "The R Markdown Team @RStudio"
-  show_author_byline: false
-  show_post_date: false
+  author: "Seohyun Kim"
+  show_author_byline: true
+  show_post_date: true
   show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /gallery/
+    text_link_url: /publication/
     show_sidebar_adunit: false # show ad container
 ---
 

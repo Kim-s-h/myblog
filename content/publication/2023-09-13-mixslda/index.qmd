@@ -1,0 +1,31 @@
+---
+title: "Exploring examinees’ responses to constructed response items with a supervised topic model."
+author: 
+- name: Seohyun Kim
+  orcid: 0000-0002-2119-6044
+- Zhenqiu Lu
+- Allan Cohen
+date: '2023-09-13'
+slug: mixslda 
+categories:
+  - Research 
+  - Topic modeling
+  - Text analysis
+  - latent group analysis
+  - Bayesian estimation
+description: 'Scientific Reports'
+# doi-title: Scientific Reports (DOI)
+# doi: "10.1038/s41598-022-24218-1"
+subtitle: Topic moodeling
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1111/bmsp.12319
+filters:
+  - lightbox
+lightbox: auto 
+---
+
+## Abstract
+
+Information .
