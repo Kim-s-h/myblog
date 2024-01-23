@@ -16,6 +16,7 @@ date: '2023-06-09'
 categories:
   - COVID-19
   - Interrupted time series analysis
+  - EHR
   - Mental health
 
 

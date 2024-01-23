@@ -16,6 +16,7 @@ date: '2023-04-08'
 categories:
   - COVID-19
   - GEE
+  - EHR
   - Family structure
   - Mental health
 
